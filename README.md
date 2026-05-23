@@ -10,7 +10,7 @@ The project analyzes Linux system logs and provides simplified AI style explanat
 - Flask backend API
 - Frontend dashboard
 - AI based log explanations
-- Error and warning classification
+- Error and warning classification.
 
 ## Technologies Used
 
